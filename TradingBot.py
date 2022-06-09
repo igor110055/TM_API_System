@@ -3,6 +3,12 @@ commands = {
         "symbol": "",
         "side":"",
         "type":"",
+        "quantity": "",
+        "price":"",
+        "stopPrice":"",
+        "leverage":"",
+
+        
         
     }
 }
