@@ -1,4 +1,4 @@
-{
+api_keys = {
     "Binance": {
         "api_key": "keyyyy",
         "api_secret": "secreteeee"

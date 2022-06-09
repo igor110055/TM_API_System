@@ -1,13 +1,16 @@
 commands = {
-    "url_path": '',
     "params":{
-        "coin": ""
+        "symbol": "",
+        "side":"",
+        "type":"",
+        
     }
 }
 
 
 from Supports.Options import options
-from 
+from API_keys import api_keys
+import Supports.Binance
 
 MyBot = TradingBot(EXCHANGE, api_keys, options)
 MyBot.switch_exchange(EXCHANGE, optional)
