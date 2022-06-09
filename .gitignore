@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Kraken/api_keys.json
+Kraken/api_keys.py
